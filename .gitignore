@@ -10,3 +10,7 @@ tail_fixed*
 
 # arena C++ client build tree
 hft/cpp_client/build/
+
+# local secrets / editor settings
+.env
+.vscode/
